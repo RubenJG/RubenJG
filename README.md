@@ -1,6 +1,2 @@
-👋
-
-<!---
-RubenJG/RubenJG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Software Engineer with 7+ years of experience 🚀 Mainly skilled in Java, Spring
+Boot, and microservices 💻 Originally from Costa Rica 🇨🇷 Now living in Germany 🇩🇪
